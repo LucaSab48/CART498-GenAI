@@ -1,2 +1,2 @@
 # CART498
-CART498 Generative AI
+This is for my CART498 Generative AI
